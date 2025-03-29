@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: RNT
 ---
 
 This is a blank Quartz installation.
